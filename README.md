@@ -85,7 +85,7 @@ This creates the `mobile_sales_db` database and the `sales_data` table, then loa
 **5. Connect Power BI**
 Go to *Get data → MySQL database*, enter `localhost` and `mobile_sales_db`, and load the `vw_sales_dashboard` view.
 
-## 🛠️ Tools used
+##  Tools used
 
 Python (pandas, SQLAlchemy, PyMySQL) · MySQL 8 · MySQL Workbench · Power BI · DAX
 
