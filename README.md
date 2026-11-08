@@ -6,9 +6,6 @@ I wanted to answer a simple question: **what actually drives mobile phone sales?
 
 So I took about 3,800 mobile sales transactions, cleaned them with Python, stored them in MySQL, wrote SQL queries to dig into them, and built an interactive Power BI dashboard to tell the story visually.
 
-![Dashboard](images/dashboard.png)
-
----
 
 ## What's in this project
 
